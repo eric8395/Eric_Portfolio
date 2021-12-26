@@ -1,5 +1,5 @@
-# Eric_Portfolio
-A collection of my data science projects
+# Eric Au's Data Science Portfolio
+A collection of my data science projects. 
 
 
 # Tableau Data Visualization Projects
