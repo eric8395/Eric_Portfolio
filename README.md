@@ -7,7 +7,7 @@ Below is a collection of my data science projects that I have worked on:
 
 # Python Projects
 
-### [An Analysis On Spinrate and Pitcher Performance](https://github.com/eric8395/pitching_analysis)
+### [An Analysis On Spinrate and Pitcher Performance](https://github.com/eric8395/pitching_analysis/blob/a35a042937ad211bc06b280c475254fad7b9631a/An%20Analysis%20On%20Spinrate%20and%20Pitcher%20Performance%20.ipynb)
 <p align="center">
   <img src = "https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTgyMDU0Mjk1NTQ4NDcwNDAz/gerrit-cole-sticky-stuff-check.webp" width="500" height="300">
   </p>
