@@ -1,9 +1,9 @@
 # Eric Au's Data Science Portfolio
-## I am a self-taught and aspiring data analyst with 4+ years of experience in managing and coordinating multiple projects with technical skills rooted in training as a civil engineer. I have spent the past 2 years training and learning Python, SQL, Tableau, and the technical skills to become a Data Analyst. 
+### Based in New York City, I am a self-taught and aspiring data analyst pivoting with 4+ years of experience in managing and coordinating multiple projects and technical skills rooted in training as a civil engineer. My passion for learning and interest in sports data have energized me towards a new career path in Data Science. I have spent the past 2 years training and learning Python, SQL, Tableau, and the technical skills to become a Data Analyst.  
 
 ## [My Resume](https://drive.google.com/file/d/1RdQmeHwxeTLxbsA6MS12dDEFEhT4Dcsy/view)
 
-Below is a collection of my data science projects that I have worked on. 
+Below is a collection of my data science projects that I have worked on: 
 
 # Python Projects
 
