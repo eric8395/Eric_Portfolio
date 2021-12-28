@@ -3,7 +3,7 @@
 
 ## [My Resume](https://drive.google.com/file/d/1RdQmeHwxeTLxbsA6MS12dDEFEhT4Dcsy/view)
 
-Below is a collection of my data science projects that I have worked on: 
+Below is a collection of my data science projects and Tableau visualizations: 
 
 # Python Projects
 
