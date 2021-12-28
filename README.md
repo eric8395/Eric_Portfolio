@@ -13,6 +13,9 @@ Below is a collection of my data science projects that I have worked on:
   </p>
 Ever since StatCast was introduced into the baseball world, tracking of miscelleaneous statistics and data have never been more plentiful. It has been speculated that pitchers use foreign substances on the baseball to generate more spin on their pitches and gain a competitive advantage. This project provides a visual analysis and comments on the performance metrics that may be apparent in the MLB.
 
+### [NYC High School SAT Scores - Data Exploration, Visualization, & Analysis](https://github.com/eric8395/nycsatscores/blob/55e31c9954d4bd83239bdb81c2c0fc9d5260cae7/NYC%20High%20School%20SAT%20Scores%20-%20EDA.ipynb)
+As a native New Yorker who was educated in the public school system, I have always been curious about the diverse ethnic background of the student population. The goal of this project is to explore a set of data related to the Scholastic Aptitude Test, or more commonly known as the SAT. Are there clear patterns or observations in the data that can possibly explain how student performance can be determined? 
+
 # Tableau Data Visualization Projects
 
 ### [My 2021 Spotify Visual Dashboard](https://public.tableau.com/views/My2021SpotifyVisualDashboard/SpotifyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
