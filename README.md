@@ -1,7 +1,11 @@
 # Eric Au's Data Science Portfolio
-A collection of my data science projects. 
+I am a self-taught and aspiring data analyst with 4+ years of experience in managing and coordinating multiple projects with technical skills rooted in training as a civil engineer. I have spent the past 2 years training and learning Python, SQL, Tableau, and the technical skills to become a Data Analyst. 
 
-# [An Analysis On Spinrate and Pitcher Performance](https://github.com/eric8395/pitching_analysis)
+Below is a collection of my data science projects that I have worked on. 
+
+# Python Projects
+
+### [An Analysis On Spinrate and Pitcher Performance](https://github.com/eric8395/pitching_analysis)
 <p align="center">
   <img src = "https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTgyMDU0Mjk1NTQ4NDcwNDAz/gerrit-cole-sticky-stuff-check.webp" width="500" height="300">
   </p>
