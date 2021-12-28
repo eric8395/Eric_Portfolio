@@ -21,6 +21,7 @@ Ever since StatCast was introduced into the baseball world, tracking of miscelle
 As a native New Yorker who was educated in the public school system, I have always been curious about the diverse ethnic background of the student population. The goal of this project is to explore a set of data related to the Scholastic Aptitude Test, or more commonly known as the SAT. Are there clear patterns or observations in the data that can possibly explain how student performance can be determined? 
 
 # Tableau Data Visualization Projects
+[Tableau Public Profile](https://public.tableau.com/app/profile/eric8519)
 
 ### [My 2021 Spotify Visual Dashboard](https://public.tableau.com/views/My2021SpotifyVisualDashboard/SpotifyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 * A visual dashboard created on Tableau that dives deeper into my 2021 Spotify Wrapped and listening habits.
