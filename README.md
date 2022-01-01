@@ -28,8 +28,12 @@ As a native New Yorker who was educated in the public school system, I have alwa
 <p align="center"><img src="https://github.com/eric8395/Eric_Portfolio/blob/main/images/Screen%20Shot%202021-12-26%20at%205.11.22%20PM.png" width="300" height="500"></p>
 
 ### [An Overview of TV Streaming Platforms](https://public.tableau.com/app/profile/eric8519/viz/AnOverviewOfTVStreamingPlatforms/Overview)
-* A visual breakdown of the most popular streaming services and television shows streaming on each platform. Where do your favorite shows rank?
+* A breakdown of the most popular streaming services and television shows streaming on each platform. Where do your favorite shows rank?
 <p align="center"><img src="https://github.com/eric8395/Eric_Portfolio/blob/main/images/Screen%20Shot%202021-12-26%20at%205.26.50%20PM.png" width="800" height="320"></p>
+
+### [CPI Average Price Data](https://public.tableau.com/app/profile/eric8519/viz/CPIAveragePriceData-U_S_CityAverage/CPI_1#1)
+* What was the average cost of your gallon of milk in the past two years? How did the 2020 March shutdown impact the price of typical goods in the United States? 
+
 
 
 
