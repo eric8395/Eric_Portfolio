@@ -33,7 +33,7 @@ As a native New Yorker who was educated in the public school system, I have alwa
 
 ### [CPI Average Price Data](https://public.tableau.com/app/profile/eric8519/viz/CPIAveragePriceData-U_S_CityAverage/CPI_1#1)
 * What was the average cost of your gallon of milk in the past two years? How did the 2020 March shutdown impact the price of typical goods in the United States? 
-
+<p align="center"><img src="https://github.com/eric8395/Eric_Portfolio/blob/main/images/Screen%20Shot%202022-01-01%20at%205.12.58%20PM.png" width = "800" height="380"></p>
 
 
 
