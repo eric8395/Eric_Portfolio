@@ -1,9 +1,8 @@
 # Eric Au's Data Science Portfolio
 ### Based in New York City, I am a self-taught and aspiring data analyst pivoting with 4+ years of experience in managing and coordinating multiple projects and technical skills rooted in training as a civil engineer. My passion for learning and interest in sports data have energized me towards a new career path in Data Science. I have spent the past 2 years training and learning Python, SQL, Tableau, and the technical skills to become a Data Analyst.  
 
-## [My Resume](https://drive.google.com/file/d/1RdQmeHwxeTLxbsA6MS12dDEFEhT4Dcsy/view)
-
-Below is a collection of my data science projects and Tableau visualizations: 
+#### [Resume](https://drive.google.com/file/d/1RdQmeHwxeTLxbsA6MS12dDEFEhT4Dcsy/view)
+#### [Tableau Public Profile](https://public.tableau.com/app/profile/eric8519)
 
 # Python Projects
 
@@ -34,7 +33,6 @@ Are there noticeable trends in the market that can predict sale value in the fut
 This project also provided an opportunity to clean an otherwise, messy data-set and outliers in the data.
 
 # Tableau Data Visualization Projects
-[Tableau Public Profile](https://public.tableau.com/app/profile/eric8519)
 
 ### [My 2021 Spotify Visual Dashboard](https://public.tableau.com/views/My2021SpotifyVisualDashboard/SpotifyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 * A visual dashboard created on Tableau that dives deeper into my 2021 Spotify Wrapped and listening habits.
