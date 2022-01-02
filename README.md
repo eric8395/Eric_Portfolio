@@ -12,15 +12,6 @@
   </p>
 Ever since StatCast was introduced into the baseball world, tracking of miscelleaneous statistics and data have never been more plentiful. It has been speculated that pitchers use foreign substances on the baseball to generate more spin on their pitches and gain a competitive advantage. This project provides a visual analysis and comments on the performance metrics that may be apparent in the MLB.
 
-### [NYC High School SAT Scores - Data Exploration, Visualization, & Analysis](https://github.com/eric8395/nycsatscores)
-<p align="center">
-  <img src = "https://github.com/eric8395/Eric_Portfolio/blob/main/images/SAT%20Scores.png" width="600" height="450">
-  </p>
-
-As a native New Yorker who was educated in the public school system, I have always been curious about the diverse ethnic background of the student population. 
-
-The goal of this project is to explore a set of data related to the Scholastic Aptitude Test, or more commonly known as the SAT. Are there clear patterns or observations in the data that can possibly explain how student performance can be determined? 
-
 ### [NYC Property Sales Exploratory Data & Regression Analysis](https://github.com/eric8395/nyc_property_sales)
 <p align="center">
   <img src = "https://github.com/eric8395/nyc_property_sales/blob/main/images/Screen%20Shot%202022-01-01%20at%206.41.39%20PM.png?raw=true" width="450" height="350">
@@ -31,6 +22,15 @@ The objective of this project is to apply exploratory analysis and regression te
 Are there noticeable trends in the market that can predict sale value in the future? Are there any suprising observations or conclusions that can be made based on an analysis of the dataset?
 
 This project also provided an opportunity to clean an otherwise, messy data-set and outliers in the data.
+
+### [NYC High School SAT Scores - Data Exploration, Visualization, & Analysis](https://github.com/eric8395/nycsatscores)
+<p align="center">
+  <img src = "https://github.com/eric8395/Eric_Portfolio/blob/main/images/SAT%20Scores.png" width="600" height="450">
+  </p>
+
+As a native New Yorker who was educated in the public school system, I have always been curious about the diverse ethnic background of the student population. 
+
+The goal of this project is to explore a set of data related to the Scholastic Aptitude Test, or more commonly known as the SAT. Are there clear patterns or observations in the data that can possibly explain how student performance can be determined? 
 
 # Tableau Data Visualization Projects
 
