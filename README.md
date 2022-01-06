@@ -39,12 +39,16 @@ The goal of this project is to explore a set of data related to the Scholastic A
 
 # Tableau Data Visualization Projects
 
+### [MLB 2021 Team Pitching](https://public.tableau.com/app/profile/eric8519/viz/MLB2021TeamPitching/Dashboard1)
+* An interactive visual breakdown of baseball pitching during the 2021 season and statistical analysis on the metrics producing wins for different multi-level market cities. What metric best determines a team's success in total wins? Can all the money in the world buy you success?
+<p align="center"><img src="https://github.com/eric8395/Eric_Portfolio/blob/main/images/Screen%20Shot%202022-01-05%20at%207.06.12%20PM.png?raw=true" width = "760" height = "480"></p>
+  
 ### [My 2021 Spotify Visual Dashboard](https://public.tableau.com/views/My2021SpotifyVisualDashboard/SpotifyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 * A visual dashboard created on Tableau that dives deeper into my 2021 Spotify Wrapped and listening habits.
 <p align="center"><img src="https://github.com/eric8395/Eric_Portfolio/blob/main/images/Screen%20Shot%202021-12-26%20at%205.11.22%20PM.png" width="300" height="500"></p>
 
 ### [An Overview of TV Streaming Platforms](https://public.tableau.com/app/profile/eric8519/viz/AnOverviewOfTVStreamingPlatforms/Overview)
-* A breakdown of the most popular streaming services and television shows streaming on each platform. Where do your favorite shows rank?
+* A visual depiction of the most popular streaming services and television shows streaming on each platform. Where do your favorite shows rank?
 <p align="center"><img src="https://github.com/eric8395/Eric_Portfolio/blob/main/images/Screen%20Shot%202021-12-26%20at%205.26.50%20PM.png" width="800" height="320"></p>
 
 ### [CPI Average Price Data](https://public.tableau.com/app/profile/eric8519/viz/CPIAveragePriceData-U_S_CityAverage/CPI_1#1)
