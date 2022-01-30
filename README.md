@@ -3,11 +3,14 @@
 
 #### My passion for learning and interest in sports data have energized me towards a new career path in Data Science. I have spent the past 2 years training and learning Python, SQL, Tableau, and building technical skills to become a Data Analyst.  
 
-#### [Resume](https://drive.google.com/file/d/1WHeHKVX6lcgq-n58WdiLFiUSDGrasTVp/view?usp=sharing)
-#### [Tableau Public Profile](https://public.tableau.com/app/profile/eric8519)
-
 #### [*Check out my technical journal article and has been featured in Building Design+Construction magazine!*](https://journal.hoffarch.com/v37-n4-parapets)
 
+#### [Resume](https://drive.google.com/file/d/1WHeHKVX6lcgq-n58WdiLFiUSDGrasTVp/view?usp=sharing)
+#### [Tableau Public Profile](https://public.tableau.com/app/profile/eric8519)
+#### SQL Queries
+  * [NYC MTA Ridership](https://github.com/eric8395/NYCridership)
+  * [Lahman's Databse](https://github.com/eric8395/lahmansdatabase)
+  * [My Sleep Data](https://github.com/eric8395/mysleepdata)
 
 # Python Projects
 
